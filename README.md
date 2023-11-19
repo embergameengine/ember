@@ -21,8 +21,5 @@ Ember is licensed under the MIT License. This means you're free to use, modify, 
 ## Contributing
 Contributions to Ember are welcome! Whether you're reporting a bug, submitting a feature request, or contributing code, your help is appreciated. Check out the contributing guide for more information on how to contribute.
 
-## Credits
-Ember is developed and maintained by ChickenChunk579. Special thanks to the contributors who have helped make Ember what it is today.
-
 Support
 If you enjoy Ember and want to support its development, consider becoming a sponsor. Your support helps ensure the continued development and maintenance of Ember.
