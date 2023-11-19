@@ -7,7 +7,7 @@ ember is a lightweight, fast, and simple game engine written in C#. It is design
 * Simple: Ember is designed to be easy to use. It provides a simple and intuitive API, making it easy for developers to create games.
 * Open Source: Ember is open source, allowing developers to contribute to its development and to use it for free.
 # Getting Started
-To get started with Ember, you'll need to install the Ember Game Engine package. You can do this by adding the Ember package to your project through the NuGet package manager.
+To get started with Ember, you'll need to install the Ember Hub. It can be found in the releases section of the repository
 
 Once you've installed via the Ember Hub, you can simply create a project, and you are up and running
 # Documentation
