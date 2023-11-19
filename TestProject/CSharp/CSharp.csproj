@@ -1,0 +1,90 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EmberEngine">
+      <HintPath>lib\EmberEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="ImGui.NET">
+      <HintPath>lib\ImGui.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="Jitter">
+      <HintPath>lib\Jitter.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.DotNet.PlatformAbstractions">
+      <HintPath>lib\Microsoft.DotNet.PlatformAbstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyModel">
+      <HintPath>lib\Microsoft.Extensions.DependencyModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>lib\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpGLTF.Core">
+      <HintPath>lib\SharpGLTF.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Silk.NET.Core">
+      <HintPath>lib\Silk.NET.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Silk.NET.GLFW">
+      <HintPath>lib\Silk.NET.GLFW.dll</HintPath>
+    </Reference>
+    <Reference Include="Silk.NET.Input.Common">
+      <HintPath>lib\Silk.NET.Input.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Silk.NET.Input.Extensions">
+      <HintPath>lib\Silk.NET.Input.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="Silk.NET.Input.Glfw">
+      <HintPath>lib\Silk.NET.Input.Glfw.dll</HintPath>
+    </Reference>
+    <Reference Include="Silk.NET.Input.Sdl">
+      <HintPath>lib\Silk.NET.Input.Sdl.dll</HintPath>
+    </Reference>
+    <Reference Include="Silk.NET.Maths">
+      <HintPath>lib\Silk.NET.Maths.dll</HintPath>
+    </Reference>
+    <Reference Include="Silk.NET.OpenAL">
+      <HintPath>lib\Silk.NET.OpenAL.dll</HintPath>
+    </Reference>
+    <Reference Include="Silk.NET.OpenGL">
+      <HintPath>lib\Silk.NET.OpenGL.dll</HintPath>
+    </Reference>
+    <Reference Include="Silk.NET.OpenGL.Extensions.ImGui">
+      <HintPath>lib\Silk.NET.OpenGL.Extensions.ImGui.dll</HintPath>
+    </Reference>
+    <Reference Include="Silk.NET.SDL">
+      <HintPath>lib\Silk.NET.SDL.dll</HintPath>
+    </Reference>
+    <Reference Include="Silk.NET.Vulkan">
+      <HintPath>lib\Silk.NET.Vulkan.dll</HintPath>
+    </Reference>
+    <Reference Include="Silk.NET.Vulkan.Extensions.KHR">
+      <HintPath>lib\Silk.NET.Vulkan.Extensions.KHR.dll</HintPath>
+    </Reference>
+    <Reference Include="Silk.NET.Windowing.Common">
+      <HintPath>lib\Silk.NET.Windowing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Silk.NET.Windowing.Glfw">
+      <HintPath>lib\Silk.NET.Windowing.Glfw.dll</HintPath>
+    </Reference>
+    <Reference Include="Silk.NET.Windowing.Sdl">
+      <HintPath>lib\Silk.NET.Windowing.Sdl.dll</HintPath>
+    </Reference>
+    <Reference Include="StbImageSharp">
+      <HintPath>lib\StbImageSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web">
+      <HintPath>lib\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json">
+      <HintPath>lib\System.Text.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

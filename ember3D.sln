@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{618FE9D2-6002-4E93-98FD-552F319070BB}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmberEditor", "EmberEditor\EmberEditor.csproj", "{2C08DC71-6E3C-4AF7-9E54-7C9F8ADCC5E5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmberEngine", "EmberEngine\EmberEngine.csproj", "{EC36EED2-1419-46EF-89F2-967B95AC68BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C08DC71-6E3C-4AF7-9E54-7C9F8ADCC5E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C08DC71-6E3C-4AF7-9E54-7C9F8ADCC5E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C08DC71-6E3C-4AF7-9E54-7C9F8ADCC5E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C08DC71-6E3C-4AF7-9E54-7C9F8ADCC5E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC36EED2-1419-46EF-89F2-967B95AC68BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC36EED2-1419-46EF-89F2-967B95AC68BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC36EED2-1419-46EF-89F2-967B95AC68BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC36EED2-1419-46EF-89F2-967B95AC68BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {519FB189-0153-4D6B-B59B-5BD422A76EC7}
+	EndGlobalSection
+EndGlobal
